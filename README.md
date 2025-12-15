@@ -60,31 +60,6 @@
 
 ---
 
-## 📊 **GitHub Performance Dashboard**
-
-<p align="center">
-
-### **Overall Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamos&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-
-### **Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamos&theme=radical&hide_border=true" height="170" alt="Streak Stats"/>
-
-### **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamos&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-
-### **Trophies & Achievements**
-<img src="https://github-profile-trophy.vercel.app/?username=shubhamos&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="170" alt="GitHub Trophies"/>
-
-### **Productivity Metrics**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubhamos&theme=radical&hide_border=true" height="170" alt="Wakatime Stats"/> <!-- Assuming Wakatime integration; replace if not used -->
-
-### **Repository Insights**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamos&repo=your-repo1&theme=radical&hide_border=true" height="170" alt="Pinned Repo 1"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamos&repo=your-repo2&theme=radical&hide_border=true" height="170" alt="Pinned Repo 2"/>
-
-</p>
-
 ---
 
 ## 📦 **Projects Showcase**
@@ -176,8 +151,7 @@
 
 - **Discord**: `devilkings_07` (DM for collaborations)
 - **Instagram**: `shubham.dns` (Tech updates & memes)
-- **LinkedIn**: [Shubham's Profile](https://linkedin.com/in/shubham-profile) (Professional network)
-- **Email**: shubham@example.com (For serious inquiries)
+- **Email**: shubhamchawhan5481@gmail.com(For serious inquiries)
 
 **Contact Form** (Embedded for ease):
 <form action="mailto:shubham@example.com" method="post" enctype="text/plain">
