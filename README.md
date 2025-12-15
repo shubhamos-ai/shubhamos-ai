@@ -1,7 +1,7 @@
 # Welcome to **SHUBHAMOS** — A Hub Created by Shubham's O.S
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated Banner" width="1200" height="300"/>
+  <img src="https://c.tenor.com/QGfhvbfZW8sAAAAC/tenor.gif" alt="Animated Banner" width="1200" height="300"/>
   <!-- Animated GIF banner for dynamic feel; replace with a custom one if needed -->
 </p>
 
