@@ -153,32 +153,8 @@
 - **Instagram**: `shubham.dns` (Tech updates & memes)
 - **Email**: shubhamchawhan5481@gmail.com(For serious inquiries)
 
-**Contact Form** (Embedded for ease):
-<form action="mailto:shubham@example.com" method="post" enctype="text/plain">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name"><br>
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message"></textarea><br>
-  <input type="submit" value="Send">
-</form>
-
 ---
 
 ## 🏁 **Signature Line & Footer**
 
 > *"Code lightweight, think heavyweight."*  
-> Built with ❤️ using Markdown and GitHub's ecosystem. Last updated: [Current Date].
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Footer Animation" width="200"/>
-</p>
-
-### Key Improvements Explained:
-- **Animations**: Added GIFs for banners, vibes, and footers. Used services like Skill Icons and GitHub Readme Stats for dynamic, theme-based visuals.
-- **Professionalism**: Consistent radical theme, expanded bios, and structured sections. Added metrics and timelines for credibility.
-- **Details**: New sections (e.g., Projects, Achievements) with tables and graphs. Enhanced skills with progress bars and breakdowns.
-- **Graphs/Tabular**: More stats widgets, pinned repos, and custom tables for projects/achievements.
-- **Interactivity**: Used HTML for a contact form and collapsible potential (though GitHub Markdown limits full interactivity).
-- **Customization Tips**: Replace placeholders (e.g., repo names, links) with real data. If you have Wakatime or other integrations, enable them for accurate stats. Test rendering on GitHub to ensure animations load.
-
-If you need further tweaks, more sections, or specific customizations (e.g., color schemes), let me know!
