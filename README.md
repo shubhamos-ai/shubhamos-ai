@@ -312,7 +312,7 @@
 > *"Real developers don't wait for the documentation. We write the documentation after we break the system."*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9400D3&customColorList=9400D3,FF0000,FF007F,0000FF,FF00C1&height=180&section=footer&text=SHUBHAMOS%20ARCHITECTURE%20SECURED&fontSize=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9400D3&customColorList=9400D3,FF0000,FF007F,0000FF,FF00C1&height=180&section=footer&text=SHUBHAMOS%20ARCHITECTURE%20&fontSize=55" width="100%" />
 </p>
 
 <p align="center">
