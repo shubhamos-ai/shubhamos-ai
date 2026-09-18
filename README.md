@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&customColorList=FF007F,9400D3,0000FF,FF0000,FF00C1&height=200&section=header&text=SHUBHAMOS&fontSize=85&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+<img width="1024" height="459" alt="light_mode" src="https://github.com/user-attachments/assets/c26737b4-7d8e-4a77-9a7b-4bde66e28db3" />
 
-</p>
-
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> <span style="color: #FF007F;">SHUBHAMOS AI-CORE INFRASTRUCTURE</span>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3N6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="System Pulse">
 </p>
