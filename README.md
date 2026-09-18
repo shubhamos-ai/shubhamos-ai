@@ -1,8 +1,5 @@
-<img width="1024" height="459" alt="light_mode" src="https://github.com/user-attachments/assets/c26737b4-7d8e-4a77-9a7b-4bde66e28db3" />
+<img width="1019" height="459" alt="dark_mode" src="https://github.com/user-attachments/assets/965508ac-fc54-442f-adb3-dc05660fe8f9" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3N6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="System Pulse">
-</p>
 
 ---
 
