@@ -1,5 +1,8 @@
-<img width="1019" height="459" alt="dark_mode" src="https://github.com/user-attachments/assets/965508ac-fc54-442f-adb3-dc05660fe8f9" />
-
+<p align="center">
+  <a href="https://shubhamos.com">
+    <img width="1916" height="1060" alt="My Portfolio" src="https://github.com/user-attachments/assets/baf71389-658f-4cb8-a5a5-e053fa9801b6" />
+  </a>
+</p>
 
 ---
 
@@ -259,42 +262,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamos-ai&theme=shades-of-purple&hide_border=true" alt="Undefeated Streak" />
-</p>
-
----
-
-### 🎮 **<span style="color: #FF00FF;">Contribution Manifestation: The Eternal Snake</span>**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shubhamos-ai/shubhamos-ai/output/github-contribution-grid-snake.svg" alt="The Contribution Snake" />
-</p>
-
----
-
-### 🌙 **<span style="color: #9400D3;">The Neural Pulse: Worldwide Activity Map Heatgrid</span>**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamos-ai&theme=shades-of-purple&hide_border=true&area=true&color=FF00FF" width="100%" />
-</p>
-
----
-
-### 💬 **<span style="color: #FF007F;">Establish Global Communication with the Mainframe</span>**
-
-<p align="center">
-  <a href="mailto:shubhamchawhan5481@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect via Email" />
-  </a>
-  <a href="https://instagram.com/shubham.dns">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on IG" />
-  </a>
-  <a href="https://discord.com/users/devilkings_07">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Discord" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Nnd3Nnd3Nnd3Nnd3Nnd3Nnd3Nnd3Nnd3Nnd3Nnd3Nnd3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9ZuU2JSTV8Fm/giphy.gif" width="450" />
 </p>
 
 ---
