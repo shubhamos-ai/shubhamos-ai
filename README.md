@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/id-dashboard.svg?v=1" width="45%" alt="Hanging ID badge with verified GitHub metrics" />
+  <img src="assets/id-dashboard.svg?v=1" width="62%" alt="Hanging ID badge with verified GitHub metrics" />
 </p>
 
 <p align="center">
