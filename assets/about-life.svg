@@ -39,7 +39,7 @@ text{font-family:SGD,JBM,monospace;fill:#eef2ff;}
 </circle>
 <text x="80" y="130" class="m dim rise" style="animation-delay:0s" font-size="15" letter-spacing="4">// WHO I AM</text>
 <text x="80" y="174" font-size="42" font-weight="700" class="rise" style="animation-delay:calc(0s + .1s)">BEYOND THE TERMINAL</text>
-<text x="80" y="66" font-size="30" font-weight="700" fill="#247bff" opacity=".9" letter-spacing="2" class="rise" style="animation-delay:0s">SHUBHAMOS</text>
+<text x="80" y="78" font-size="26" font-weight="700" fill="#247bff" opacity=".9" letter-spacing="2" class="rise" style="animation-delay:0s">SHUBHAMOS</text>
 <g class="rise" style="animation-delay:0.35s">
 <rect x="80" y="238" width="620" height="74" rx="18" class="card"/>
 <rect x="80" y="238" width="620" height="74" rx="18" fill="url(#a-shine)" opacity="0" style="fill-opacity:1">
