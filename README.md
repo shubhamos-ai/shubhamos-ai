@@ -1,26 +1,37 @@
 <p align="center">
-  <img src="assets/hero.svg?v=1" width="100%" alt="Shubham O.S — hero card with animated name reveal and cycling roles" />
+  <a href="https://shubhamos.com">
+  <img src="assets/hero.svg?v=2" width="100%" alt="Shubham O.S — hero card with animated name reveal and cycling roles" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="assets/about-life.svg?v=1" width="100%" alt="Capabilities and an auto-cycling interests carousel" />
+  <a href="https://shubhamos.com">
+  <img src="assets/about-life.svg?v=2" width="100%" alt="Capabilities and an auto-cycling interests carousel" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg?v=1" width="100%" alt="Tech stack on tilted elliptical orbits" />
+  <a href="https://shubhamos.com">
+  <img src="assets/stack.svg?v=2" width="100%" alt="Tech stack on tilted elliptical orbits" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="assets/id-dashboard.svg?v=1" width="100%" alt="Hanging ID badge with verified GitHub metrics" />
+  <a href="https://shubhamos.com">
+  <img src="assets/id-dashboard.svg?v=2" width="100%" alt="Hanging ID badge with verified GitHub metrics" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="assets/connect.svg?v=1" width="100%" alt="Connect with me — social cards" />
+  <a href="https://shubhamos.com">
+  <img src="assets/connect.svg?v=2" width="100%" alt="Connect with me — social cards" />
+  </a>
 </p>
 
 ## Links
 
 - GitHub — <https://github.com/shubhamos-ai>
+- Instagram — <https://instagram.com/shubham.dns> (11.9k followers)
 - Portfolio — <https://shubhamos.com>
 - AirDraw (drawing app) — <https://draw.shubhamos.com>
 - MediaPipe Games — <https://game.shubhamos.com>
