@@ -22,6 +22,13 @@
 
 - GitHub — <https://github.com/shubhamos-ai>
 - Portfolio — <https://shubhamos.com>
+- AirDraw (drawing app) — <https://draw.shubhamos.com>
+- MediaPipe Games — <https://game.shubhamos.com>
+- Encryption.gg — <https://encryption.shubhamos.com>
+- GitHelp — <https://githelp.shubhamos.com>
+- Cinevault — <https://cinevault.shubhamos.com>
+- Img Utils — <https://img-utils.shubhamos.com>
+- Can My PC Run It? — <https://can-my-pc-run-it.shubhamos.com>
 - Email — <mailto:shubhamos.devilkings@gmail.com>
 - Discord — **@shubhamos** (find me by username on Discord)
 
