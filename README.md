@@ -1,30 +1,30 @@
 <p align="center">
   <a href="https://shubhamos.com">
-  <img src="assets/hero.svg?v=2" width="100%" alt="Shubham O.S — hero card with animated name reveal and cycling roles" />
+  <img src="assets/hero.svg?v=3" width="100%" alt="Shubham O.S — hero card with animated name reveal and cycling roles" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://shubhamos.com">
-  <img src="assets/about-life.svg?v=2" width="100%" alt="Capabilities and an auto-cycling interests carousel" />
+  <img src="assets/about-life.svg?v=3" width="100%" alt="Capabilities and an auto-cycling interests carousel" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://shubhamos.com">
-  <img src="assets/stack.svg?v=2" width="100%" alt="Tech stack on tilted elliptical orbits" />
+  <img src="assets/stack.svg?v=3" width="100%" alt="Tech stack on tilted elliptical orbits" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://shubhamos.com">
-  <img src="assets/id-dashboard.svg?v=2" width="100%" alt="Hanging ID badge with verified GitHub metrics" />
+  <img src="assets/id-dashboard.svg?v=3" width="100%" alt="Hanging ID badge with verified GitHub metrics" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://shubhamos.com">
-  <img src="assets/connect.svg?v=2" width="100%" alt="Connect with me — social cards" />
+  <img src="assets/connect.svg?v=3" width="100%" alt="Connect with me — social cards" />
   </a>
 </p>
 
@@ -42,6 +42,7 @@
 - Can My PC Run It? — <https://can-my-pc-run-it.shubhamos.com>
 - Email — <mailto:shubhamos.devilkings@gmail.com>
 - Discord — **@shubhamos** (find me by username on Discord)
+- Discord server — <http://discord.shubhamos.com/>
 
 ## Projects
 

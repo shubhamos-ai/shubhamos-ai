@@ -65,9 +65,9 @@ text{font-family:SGD,JBM,monospace;}
 <g clip-path="url(#h-rolesclip)">
 <g id="h-roles">
 <text x="72" y="384" font-size="46" class="h" fill="#556608">MERN STACK DEVELOPER</text><text x="72" y="460" font-size="46" class="h" fill="#090909">AI/ML TRAINER · GENAI &amp; LLMS</text><text x="72" y="536" font-size="46" class="h" fill="#556608">FULL-STACK · CLOUD &amp; DEVOPS</text><text x="72" y="612" font-size="46" class="h" fill="#090909">AI BUILDER · FOUNDER &amp; HACKATHONER</text><text x="72" y="688" font-size="46" class="h" fill="#556608">MERN STACK DEVELOPER</text>
-<animateTransform attributeName="transform" type="translate" values="0,0;0,-76;0,-152;0,-228;0,-304"
- keyTimes="0;0.25;0.5;0.75;1" dur="8s" begin="0s" repeatCount="indefinite" calcMode="spline"
- keySplines="0.25 0.1 0.25 1;0.25 0.1 0.25 1;0.25 0.1 0.25 1;0.25 0.1 0.25 1"/>
+<animateTransform attributeName="transform" type="translate" values="0,0;0,-76;0,-76;0,-152;0,-152;0,-228;0,-228;0,-304;0,-304"
+ keyTimes="0;0.14;0.25;0.39;0.5;0.64;0.75;0.89;1" dur="8s" begin="0s" repeatCount="indefinite" calcMode="spline"
+ keySplines="0 0 1 1;0.25 0.1 0.25 1;0 0 1 1;0.25 0.1 0.25 1;0 0 1 1;0.25 0.1 0.25 1;0 0 1 1;0.25 0.1 0.25 1"/>
 </g></g>
 <text x="72" y="466" class="m dim rise" font-size="20" style="animation-delay:.9s">I make chaos look simple — bots, backends &amp; automation that just work.</text>
 <g class="rise" style="animation-delay:1.05s">
