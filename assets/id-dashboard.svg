@@ -72,7 +72,7 @@ text{font-family:SGD,JBM,monospace;}
 <g class="ico"><g transform="translate(480,446) scale(0.8333)"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#77756a" transform="translate(-12,-12)"/></g></g>
 <text x="512" y="461" class="m dim" font-size="11.5">@shubhamos-ai</text>
 </g>
-<text x="416" y="492" class="m dim" font-size="11.5" letter-spacing="1">ISSUED 2025-03 · RENEWED 2026-11</text>
+<text x="416" y="492" class="m dim" font-size="11">ISSUED 2025-03 · RENEWED 2026-11</text>
 
 <text x="184" y="580" class="m dim" font-size="14" letter-spacing="3">LIVE METRICS</text>
 <text x="184" y="612" class="m" font-size="21">REPOS<tspan fill="#556608"> 45</tspan>　·　FOLLOWERS<tspan fill="#c22f1f"> 15</tspan></text>
